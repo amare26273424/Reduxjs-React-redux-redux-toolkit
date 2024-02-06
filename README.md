@@ -1,3 +1,6 @@
+The main idea of this project is to use the concepts of reduxjs with the e-commerce 
+
+
 ## Before you run the project install the packages  using 'npm install'
 
 ##To login to main page  just click   login button
